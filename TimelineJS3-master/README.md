@@ -38,5 +38,5 @@ To use in a project that uses ES6 modules and webpack, import the `Timeline` cla
 
 ```js
 import { Timeline } from '@knight-lab/timelinejs';
-import '@knight-lab/timelinejs/dist/css/timeline.css';
+import '@knight-lab/timelinejs/dist/css/timeline.css  ...';
 ```
